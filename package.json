@@ -1,0 +1,14 @@
+{
+  "name": "cs2-thread-updater",
+  "version": "1.0.0",
+  "description": "Program to update thread on CS2Editor when github updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pyragon",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
