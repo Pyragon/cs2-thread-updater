@@ -62,7 +62,6 @@ async function updateThread(content) {
 
     page.close();
     browser.close();
-    process.exit();
 
 }
 
