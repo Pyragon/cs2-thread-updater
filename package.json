@@ -9,6 +9,7 @@
   "author": "Pyragon",
   "license": "MIT",
   "dependencies": {
+    "@octokit/webhooks": "^7.6.4",
     "puppeteer": "^3.3.0"
   }
 }
